@@ -30,9 +30,9 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//Guillermo 22131390
+//Guillermo
 
-//hola
+
 
 
 
