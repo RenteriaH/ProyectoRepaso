@@ -29,7 +29,11 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+//Guillermo 22131390
+
 //hola
+
 
 
 @Composable
@@ -47,3 +51,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+//sssssss
